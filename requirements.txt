@@ -1,0 +1,12 @@
+requests
+youtube-transcript-api
+google-api-python-client
+newspaper3k
+beautifulsoup4
+pandas
+python-dotenv
+lxml
+trafilatura
+pyarrow
+tenacity
+tqdm
